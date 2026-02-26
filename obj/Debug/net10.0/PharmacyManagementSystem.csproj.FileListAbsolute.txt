@@ -160,3 +160,4 @@
 /Users/gravitywebtechnologiespvtltd/Desktop/PharmacyManagementSystem/obj/Debug/net10.0/PharmacyManagementSystem.pdb
 /Users/gravitywebtechnologiespvtltd/Desktop/PharmacyManagementSystem/obj/Debug/net10.0/PharmacyManagementSystem.genruntimeconfig.cache
 /Users/gravitywebtechnologiespvtltd/Desktop/PharmacyManagementSystem/obj/Debug/net10.0/ref/PharmacyManagementSystem.dll
+/Users/gravitywebtechnologiespvtltd/Desktop/PharmacyManagementSystem/obj/Debug/net10.0/PharmacyManagementSystem.sourcelink.json

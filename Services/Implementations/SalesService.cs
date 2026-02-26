@@ -16,7 +16,7 @@ public class SalesService : ISalesService
     private readonly IUserContextService _userContext;
     private readonly IErrorLoggerService _errorLogger;
 
-    // ✅ Constructor with all dependencies
+    // Constructor with all dependencies
     public SalesService(
         AppDbContext context,
         IUserContextService userContext,
@@ -31,7 +31,6 @@ public class SalesService : ISalesService
     public async Task<IEnumerable<Sale>> GetAllAsync()
     {
         int pharmacyId = _userContext.GetPharmacyId();
-
         try
         {
             return await _context.Sales
